@@ -1,4 +1,4 @@
-package com.example.bottom_nav;
+package com.example.bottom_nav.fragment;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -12,6 +12,13 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.example.bottom_nav.R;
+import com.example.bottom_nav.TimAdapter;
+import com.example.bottom_nav.api_service.ApiClient;
+import com.example.bottom_nav.api_service.ApiInterfaceSpainLeague;
+import com.example.bottom_nav.api_service.TimModel;
+import com.example.bottom_nav.api_service.TimResponse;
 
 import java.util.ArrayList;
 

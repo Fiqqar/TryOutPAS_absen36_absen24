@@ -15,7 +15,7 @@
         android:theme="@style/Theme.BottomNav"
         tools:targetApi="31">
         <activity
-            android:name=".RecyclerView"
+            android:name=".LeagueList"
             android:exported="false" />
 
         <activity

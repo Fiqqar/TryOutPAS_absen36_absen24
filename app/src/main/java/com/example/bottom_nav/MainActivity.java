@@ -6,6 +6,9 @@ import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 
+import com.example.bottom_nav.fragment.DashboardFragment;
+import com.example.bottom_nav.fragment.HomeFragment;
+import com.example.bottom_nav.fragment.InformationFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class MainActivity extends AppCompatActivity {

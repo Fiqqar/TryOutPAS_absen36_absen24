@@ -1,4 +1,4 @@
-package com.example.bottom_nav;
+package com.example.bottom_nav.api_service;
 
 import com.google.gson.annotations.SerializedName;
 

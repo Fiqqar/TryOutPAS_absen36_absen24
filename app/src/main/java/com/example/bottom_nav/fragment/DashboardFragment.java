@@ -1,4 +1,4 @@
-package com.example.bottom_nav;
+package com.example.bottom_nav.fragment;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -8,6 +8,8 @@ import android.widget.Button;
 
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentTransaction;
+
+import com.example.bottom_nav.R;
 
 public class DashboardFragment extends Fragment {
 

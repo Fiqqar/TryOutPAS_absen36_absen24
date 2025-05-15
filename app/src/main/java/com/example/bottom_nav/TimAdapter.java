@@ -11,6 +11,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 
 import com.bumptech.glide.Glide;
+import com.example.bottom_nav.api_service.TimModel;
 
 import java.util.ArrayList;
 

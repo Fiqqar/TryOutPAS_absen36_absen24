@@ -1,4 +1,4 @@
-package com.example.bottom_nav;
+package com.example.bottom_nav.api_service;
 import java.util.List;
 
 public class TimResponse {

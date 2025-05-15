@@ -1,4 +1,4 @@
-package com.example.bottom_nav;
+package com.example.bottom_nav.api_service;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
