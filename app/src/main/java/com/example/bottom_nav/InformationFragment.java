@@ -9,14 +9,14 @@ import android.widget.TextView;
 
 import androidx.fragment.app.Fragment;
 
-public class SettingsFragment extends Fragment {
+public class InformationFragment extends Fragment {
 
-    TextView tvSettings;
+    TextView tvInfo;
 
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        View view = inflater.inflate(R.layout.fragment_settings, container, false);
-        tvSettings = (TextView) view.findViewById(R.id.tvSettings);
+        View view = inflater.inflate(R.layout.fragment_information, container, false);
+        tvInfo = (TextView) view.findViewById(R.id.tvInfo);
         return view;
     }
 }
