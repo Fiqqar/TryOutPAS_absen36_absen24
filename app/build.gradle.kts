@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.example.bottom_nav"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.bottom_nav"
